@@ -1,0 +1,29 @@
+{
+  "list": [
+  {
+    "data" : "起床刷牙",
+    "done" : true
+  },
+    {
+      "data" : "学习vuex",
+      "done" : true
+    },
+    {
+      "data" : "看视频学习",
+      "done" : false
+    },
+    {
+      "data" : "中午吃饭休息",
+      "done" : false
+    },
+    {
+      "data" : "运动娱乐",
+      "done" : true
+    },
+    {
+      "data" : "学习spring boot&spring cloud",
+      "done" : false
+    }
+
+]
+}
